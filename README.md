@@ -2,7 +2,7 @@
 
 A visually stunning and highly interactive food recommendation and ordering application with advanced filtering and a seamless user experience.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pharisjohnson/menu-app)
 
 Savorly is a premium food recommendation and ordering application designed for an exceptional user experience. The application presents a curated menu in a beautiful, interactive interface. The design prioritizes visual appeal, with smooth animations, micro-interactions, and a sophisticated color palette to create an immersive and delightful journey from browsing to ordering.
 
@@ -85,7 +85,7 @@ This project is configured for seamless deployment to Cloudflare Workers.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pharisjohnson/menu-app)
 
 ## Project Structure
 
